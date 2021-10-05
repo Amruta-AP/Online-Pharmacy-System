@@ -22,7 +22,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author ASPrajna
+ * @author AmrutaP
  */
 public class mainpage extends javax.swing.JFrame {
 
